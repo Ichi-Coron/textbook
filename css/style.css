@@ -1,0 +1,22 @@
+body {
+  background-color: yellow;
+}
+header {
+  margin-top: 15px;
+}
+.container {
+  width: 920px;
+  margin: 0 auto 40px auto;
+}
+.header-title-area {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+.header-navigation{
+  /* width: 100px; */
+  background-color: #fff;
+  padding: 20px 0;
+}
+ul.header-navigation {
+  display: flex;
+}
